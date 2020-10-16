@@ -1,0 +1,7 @@
+public class Saludo
+{
+  public static void hola(String[] args)
+  {
+    System.out.println("Halo mia nomo estas Jonhatan");
+  }
+}
